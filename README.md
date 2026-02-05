@@ -1,6 +1,6 @@
 # Reflections on Data Science 2026 exercises
 
-Exercises will be in 2A20, if we are too many for that room, we will expand to 2A54 (subject to changes).
+Exercises will be in 2A54(subject to changes).
 ***
 
 ## Week 1: 29/01 [Exercises_01](https://github.com/gazhds/RoDS-2026/tree/main/exercises_01)
@@ -9,3 +9,6 @@ Exercises will be in 2A20, if we are too many for that room, we will expand to 2
 - [Null model preparation for next week's lecture](https://github.com/Xannadoo/RoDS-2025/blob/main/exercises_01/3%20-%20Null%20models%20(preparation).ipynb)
 
 ***
+## Week 2: 05/02 [Exercises_02](https://github.com/gazhds/RoDS-2026/tree/main/exercises_02)
+- [Multiple Hypotheses notebook](https://github.com/gazhds/RoDS-2026/blob/main/exercises_02/1%20-%20Multiple%20hypotheses.ipynb)
+- Begin to work on your bullshit journals
