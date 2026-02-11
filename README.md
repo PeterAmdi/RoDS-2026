@@ -12,3 +12,10 @@ Exercises will be in 2A54(subject to changes).
 ## Week 2: 05/02 [Exercises_02](https://github.com/gazhds/RoDS-2026/tree/main/exercises_02)
 - [Multiple Hypotheses notebook](https://github.com/gazhds/RoDS-2026/blob/main/exercises_02/1%20-%20Multiple%20hypotheses.ipynb)
 - Begin to work on your bullshit journals
+
+***
+## Week 3: 11/02 [Exercises_03](https://github.com/Xannadoo/RoDS-2025/tree/main/exercises_03)
+[P-hacking PDF](https://github.com/gazhds/RoDS-2026/blob/main/exercises_03/1-p-hacking.pdf)
+- [Green dice are loaded notebook](https://github.com/gazhds/RoDS-2026/blob/main/exercises_03/1-p-hacking.ipynb)
+
+- Continue to work on your own bullshit journals.
